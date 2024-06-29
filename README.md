@@ -2,7 +2,7 @@
 
 <p align="center">
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=FF0000&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Blockchain+Developer;I+Love+Learning;Feel+free+to+contact+me" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=FF0000&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+FullStack+Developer;I'm+a+Blockchain+Developer;Feel+free+to+contact+me" />
   </a>
 </p>
 <p>Welcome to my GitHub profile! I'm a Blockchain developer, I love learning, and I'm always open to new tech.</p>
