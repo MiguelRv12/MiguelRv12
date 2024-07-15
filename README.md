@@ -30,6 +30,7 @@ I look for opportunities to learn and grow. If you need a passionate and curious
 
 ## Frameworks and Libraries
 <p>
+    <a href="#"><img alt="ethersjs" src="https://img.shields.io/badge/ethersjs%20-%23363636.svg?logo=ethereum&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%23339933.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white"></a>
